@@ -2,7 +2,7 @@
   "name": "crypto-curr",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://{PravinSliet123}.github.io",
+  "homepage":"https://PravinSliet123.github.io",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
