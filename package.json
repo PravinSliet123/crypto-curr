@@ -1,8 +1,8 @@
 {
   "name": "crypto-curr",
   "version": "0.1.0",
-  "private": false,
-  "homepage":"https://PravinSliet123.github.io",
+  "private": true,
+  "homepage": "https://pravinsliet123.github.io/crypto-curr/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
