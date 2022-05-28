@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4475c98d.css",
-    "main.js": "/static/js/main.c4b0a239.js",
-    "static/media/banner.jpg": "/static/media/banner.19419d69e5001e322fee.jpg",
-    "index.html": "/index.html",
-    "main.4475c98d.css.map": "/static/css/main.4475c98d.css.map",
-    "main.c4b0a239.js.map": "/static/js/main.c4b0a239.js.map"
+    "main.css": "/crypto-curr/static/css/main.a13ba79e.css",
+    "main.js": "/crypto-curr/static/js/main.6185ee43.js",
+    "static/media/banner.jpg": "/crypto-curr/static/media/banner.19419d69e5001e322fee.jpg",
+    "index.html": "/crypto-curr/index.html",
+    "main.a13ba79e.css.map": "/crypto-curr/static/css/main.a13ba79e.css.map",
+    "main.6185ee43.js.map": "/crypto-curr/static/js/main.6185ee43.js.map"
   },
   "entrypoints": [
-    "static/css/main.4475c98d.css",
-    "static/js/main.c4b0a239.js"
+    "static/css/main.a13ba79e.css",
+    "static/js/main.6185ee43.js"
   ]
 }
