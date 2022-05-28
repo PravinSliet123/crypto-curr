@@ -1,7 +1,7 @@
 {
   "name": "crypto-curr",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://pravinsliet123.github.io/crypto-curr/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
